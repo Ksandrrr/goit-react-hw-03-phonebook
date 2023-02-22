@@ -1,0 +1,31 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 250px;
+  margin-left: 5px;
+}
+.form label {
+  padding: 5px;
+  width: 200px;
+}
+.btn {
+  width: 150px;
+  margin: 15px 5px;
+}
+.list {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.btnDelate {
+  width: 70px;
+  height: 20px;
+}
+ul {
+  padding: 10px;
+}
+p {
+  margin: 5px;
+}
